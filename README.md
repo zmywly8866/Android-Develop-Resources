@@ -878,3 +878,22 @@ Android-Develop-Resources
 	<br />
 	
 </p>
+<p>
+	<strong><span style="font-size:24px">五、学习路线：</span></strong>
+</p>
+<p>
+	<span style="font-size:18px"><a target="_blank" href="http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/">Android学习之路</a><br />
+	</span>
+</p>
+<p>
+	<span style="font-size:18px"><a target="_blank" href="http://wenku.baidu.com/view/43b23669561252d380eb6e5a.html">Android游戏与应用开发最佳学习路线图</a><br />
+	</span>
+</p>
+<p>
+	<span style="font-size:18px"><br />
+	</span>
+</p>
+<p>
+	<br />
+	
+</p>
