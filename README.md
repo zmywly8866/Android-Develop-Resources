@@ -24,6 +24,14 @@ Android-Develop-Resources
 	</span>
 </p>
 <p>
+	<span style="font-size:18px"><a target="_blank" href="http://alamkanak.github.io/android-libraries-and-resources/">Android Libraries and Resources</a><br />
+	</span>
+</p>
+<p>
+	<span style="font-size:18px"><a target="_blank" href="http://www.appance.com/category/android/">Android  Appance</a><br />
+	</span>
+</p>
+<p>
 	<span style="font-size:18px"><br />
 	</span>
 </p>
@@ -854,6 +862,9 @@ Android-Develop-Resources
 </p>
 <p>
 	<span style="font-size:18px"><a target="_blank" href="http://xianminx.github.io/2012/09/25/android-ui-patterns/">android ui design</a></span>
+</p>
+<p>
+	<span style="font-size:18px"><a target="_blank" href="http://androidweekly.cn/">android news</a></span>
 </p>
 <p>
 	<span style="font-size:18px"><br />
