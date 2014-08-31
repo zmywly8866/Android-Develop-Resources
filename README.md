@@ -897,3 +897,14 @@ Android-Develop-Resources
 	<br />
 	
 </p>
+<p>
+	<strong><span style="font-size:24px">六、技术文章：</span></strong>
+</p>
+<p>
+	<span style="font-size:18px"><a target="_blank" href="https://github.com/zmywly8866/Worth-Reading-the-Android-technical-articles">Worth-Reading-the-Android-technical-articles</a><br />
+	</span>
+</p>
+<p>
+	<span style="font-size:18px"><br />
+	</span>
+</p>
