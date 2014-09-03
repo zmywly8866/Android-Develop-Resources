@@ -882,6 +882,10 @@ Android-Develop-Resources
 	</span>
 </p>
 <p>
+	<span style="font-size:18px"><a target="_blank" href="http://www.bongizmo.com/blog/android-resources-each-developer-should-know/">有哪些Android开发者必知的资源？</a><br />
+	</span>
+</p>
+<p>
 	<span style="font-size:18px"><br />
 	</span>
 </p>
