@@ -919,3 +919,15 @@ Android-Develop-Resources
 	<span style="font-size:18px"><br />
 	</span>
 </p>
+
+<p>
+	<strong><span style="font-size:24px">七、搜索引擎：</span></strong>
+</p>
+<p>
+	<span style="font-size:18px"><a target="_blank" href="https://www.google.com/cse/publicurl?cx=015908837351802082281:usuc7bsmwjs">Android搜索引擎（搜索Android方面的问答、博客和电子书）</a><br />
+	</span>
+</p>
+<p>
+	<span style="font-size:18px"><br />
+	</span>
+</p>
