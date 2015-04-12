@@ -867,6 +867,9 @@ Android-Develop-Resources
 	<span style="font-size:18px"><a target="_blank" href="http://androidweekly.cn/">android news</a></span>
 </p>
 <p>
+	<span style="font-size:18px"><a target="_blank" href="http://blog.csdn.net/lmj623565791/article/details/44754023">Android 你应该知道的学习资源</a></span>
+</p>
+<p>
 	<span style="font-size:18px"><br />
 	</span>
 </p>
